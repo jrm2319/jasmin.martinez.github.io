@@ -4,7 +4,26 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: journal
 ---
+# Courses
+
+# Involvements
+### Black & Latinx Student Caucus  
+position: Co-President
+
+### Engage: Public Health and Clinical Medicine Student Collaborative  
+(position: Vice President)
+
+### Columbia Christian Fellowship     
+position: Executive Member/Marketing Lead
+
+### Student Leadership Engagement Initiative    
+position: Member
+
+### Scientist in Residence at the New York Academy of Science    
+position: Scientist
+
+### West Side Campaign Against Hunger    
+position: Staff Volunteer
 
 
