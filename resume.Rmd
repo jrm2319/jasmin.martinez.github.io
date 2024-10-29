@@ -4,7 +4,63 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: journal
 ---
+
+## EDUCATION 
+### Columbia University Mailman School of Public Health
+
+New York, NY | Expected graduation May 2025
+
+Master of Public Health in Epidemiology  
+Certificate: Applied Biostatistics & Data Science 
+
+**Relevant Coursework**: Design and Conduct of Observational Epidemiological Studies, Applications of Epidemiological Research Methods, Analysis of Categorical Data, Applied Regressions, Clinical Epidemiology  
+**Leadership**: Black & Latinx Student Caucus (President), Engage: Public Health and Clinical Medicine Student Collaborative (Vice President)
+
+### William & Mary
+Williamsburg, VA | Graduated May 2023
+
+Bachelor of Science in Biology and Kinesiology & Health Sciences  			                                   
+Concentration: Public Health
+
+**Relevant Coursework**: Programming for Data Science (Python), Human Development and Data Science (GitHub),  
+**Leadership**: The Latin American Student Union (President, 2022-2023 & Marketing Chair, 2020-2022), Student Assembly (Student Body Vice President, 2022-2023) 
+
+## SKILLS & CERTIFICATIONS
+**Language Skills**: Spanish (fluent)  
+**Programming Skills**: R (Intermediate), SAS (Intermediate), Stata (Intermediate), SPSS (Intermediate), GitHub (Intermediate), Tableau (Novice), Python (Novice), SQL (Novice)  
+**Research Skills**: NVivo (Intermediate), Sonix (Intermediate), MAXQDA (Novice)  
+**Certifications**: HIPPA, CITI: Human Subjects Protection SBR, CITI: Responsible Conduct of Research
+
+## EXPERIENCE 
+### Data Research Assistant  
+**Center for Health Policy, Columbia University, New York, NY**  
+**May 2024-Present**
+
+* Cleaned data using SPSS from a nationwide research study, focusing on infection prevention, emergency preparedness, and COVID-19 experiences in home health agencies and nursing homes across the United States and Puerto Rico
+* Conducted descriptive analyses and regressions on COVID-19 data, comparing baseline (2019) and recent survey (2023) data, in Stata and created data visualizations using R and Tableau
+* Created a two-layer map of Puerto Rican home health agency's catchment areas in R with publicly available 2022 Home Health Compare and 2020 U.S. Census Bureau ZIP Code Tabulation Areas data
+* Coded 12 interview transcripts from staff at four different agencies using NVivo; created a codebook, generated themes, and assisted in triangulating qualitative and quantitative findings for a mixed methods manuscript
+
+### Bilingual Research Assistant  
+**Center for Health Policy, Columbia University, New York, NY**  
+**November 2023-May 2024**
+
+* Facilitated 12 interviews with Administrators and Directors of Nursing from various agencies in Puerto Rico as part of the nationwide research studies, focusing on infection prevention, emergency preparedness, and COVID-19 experiences in home health agencies and nursing homes across the United States
+* Conducted 10 hours of recruitment activities per week by preparing mailings, making 60 phone calls, and sending 65-70 emails per week to potential study participants to ensure randomization of study participants
+
+### Spanish Interpreter
+**Olde Town Medical Center, Williamsburg, VA**  
+**February 2021-May 2023**
+
+* Dedicated 240 hours to providing interpreting services for Spanish-speaking patients during OBGYN and Pediatric appointments, seeing an average of 10-15 patients per week
+* Explored the impact of language barriers on medication adherence and reported findings in a comprehensive 15-page capstone titled "The Vital Role of Spanish Interpreters in Clinical Settings"
+
+### Student Researcher
+**SOMOS Research Lab, William & Mary, Williamsburg, VA**   
+**March 2021-April 2022**
+
+* Conducted two interviews per week with community members of Esfuerzo del Paraiso, Santo Domingo, Dominican Republic to understand the impacts of inadequate waste disposal systems on health outcomes
+* Assisted in the transcription and translation of 60 recorded interviews using NVivo and Sonix for qualitative analysis  
 
 
