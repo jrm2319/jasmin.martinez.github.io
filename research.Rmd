@@ -4,7 +4,23 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: journal
 ---
+
+# My Research Intrests
+I am deeply committed to health disparities research, particularly in examining the unique health challenges and systemic inequities faced by Latino communities in the U.S. My research experience is primarily focused on these communities, leveraging both qualitative and quantitative methods to capture the impact of structural factors, including healthcare accessibility, cultural determinants, and socio-economic influences on health outcomes. I strive to produce research that not only informs public health practices but also contributes to policy-making that empowers Latino populations and other underserved groups.
+
+
+# Projects  
+#### Current State of Home Healthcare in Puerto Rico  
+The current state of Home Healthcare in Puerto Rico is not well understood. The aim of this project is to investigate the similarities and differences of agency and patient characteristics in US agencies, US agencies in counties with high proportion of Puerto Ricans, and Puerto Rican agencies. This project is under the Center for Health Policy at the Columbia University School of Nursing. 
+
+#### COVID-19 Experience among Home Health Agency Staff in Puerto Rico  
+While the experience of Home Health Agency Staff in the mainland US has been documented, the experience among staff in Puerto Rico has not. The aim of this project is to understand the unique experience of staff in Puerto Rico using qualitative and quantitative methods. This project is under the Center for Health Policy at the Columbia University School of Nursing.  
+
+#### Clarifying Race, Ethnicity and other variables across Medicaid Systems for the purpose of standardizing public health research across DOHMH 
+The aim of this project is to use relational databases to correct a variables in New York State Medicaid Data for future use. This project is under the Data Governance and Informatics unit at the New York City Department of Health and Mental Hygiene. 
+
+#### Impact of acculturation and neighborhoods on dementia in Latino immigrants
+The aim of this project is to understand how acculturation, neighborhoods, and other exposures impact dementia outcomes in the Latino immigrant population. This project is under the Department of Epidemiology at the Mailman School of Public Health. 
 
 
