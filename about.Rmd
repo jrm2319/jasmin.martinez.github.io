@@ -4,7 +4,15 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: journal
 ---
 
+Hi! My name is Jasmin Martinez (she/her/ella) and I am a first-generation Latina student at Columbia’s Mailman School of Public Health, currently pursuing my MPH in Epidemiology with a Applied Biostatistics and Data Science certificate. 
+
+While being Vice President of the Student Body at William & Mary, I developed a deep interest in policy and recognized the critical role of statistics in shaping effective policies. This experience fueled my curiosity to explore the dynamic intersection of medicine, public health, and policy.
+
+My commitment to understanding this intersection grew during my roles as a Spanish Interpreter at Olde Towne Medical Center and a student shadow at VCU Health Clinic. Working in these two clinical settings allowed me to bridge the gap between my conceptual knowledge and practical experience, shedding light on the complex factors that validate the statement "healthcare is a privilege." This includes challenges such as language barriers, systemic racism, wealth disparities, low health literacy, and disparities in insurance coverage.
+
+Currently, I am completing my master’s degree, and plan to further my education by pursuing an MD. Ultimately my goal is to leverage my MPH as a unique lens through which to understand medicine, viewing it from a statistical and epidemiological perspective. As a future physician, I aspire to dedicate my skills and knowledge to serving the underserved populations in a large city, particularly those in the low-income, Latino, and immigrant communities. 
+
+Upon graduating from the Columbia Mailman School of Public Health I aim to work as a data analyst in research to improve the health and well-being of current and future generations.
 
