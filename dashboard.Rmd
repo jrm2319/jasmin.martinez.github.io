@@ -1,0 +1,76 @@
+---
+title: "dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+library(dplyr)
+```
+
+```{r}
+NYC_rest = p8105.datasets::rest_inspec
+NYC_rest = NYC_rest %>% 
+  select(camis, boro, cuisine_description, action, critical_flag, score, grade) %>% 
+  filter(!is.na(critical_flag),
+        !is.na(grade),
+        !is.na(score),
+        boro != "Missing",
+        action == "Violations were cited in the following area(s).") %>% 
+  select(-action)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+flag_counts = NYC_rest %>%
+  filter(critical_flag != "Not Applicable") %>% 
+  group_by(boro, critical_flag) %>%
+  summarise(count = n()) %>%
+  ungroup()
+
+plot_ly(flag_counts, x = ~boro, y = ~count, color = ~critical_flag, type = 'bar') %>%
+  layout(
+        barmode = 'group',
+         xaxis = list(title = "Borough"),
+         yaxis = list(title = "Count"),
+         title = "Count of Critical and Non-Critical Flags in Each NYC Borough")
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+NYC_rest %>% 
+    plot_ly(y=~ score, x = ~ boro, type = "violin") %>% 
+    layout(
+         xaxis = list(title = "Borough"),
+         yaxis = list(title = "Score"),
+         title = "Score Received by NYC Borough")
+
+
+```
+
+### Chart C
+
+```{r}
+NYC_rest %>% 
+  filter (grade %in% c("A","B","C")) %>% 
+  plot_ly(y=~ score, x = ~ grade, type = "box") %>% 
+  layout(
+         xaxis = list(title = "Grade"),
+         yaxis = list(title = "Score"),
+         title = "Grade and Score Received")
+```
+

@@ -5,3 +5,30 @@ output:
     toc: true
     toc_float: true
 ---
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+library(dplyr)
+```
+
+```{r}
+NYC_rest = p8105.datasets::rest_inspec
+NYC_rest = NYC_rest %>% 
+  select(camis, boro, cuisine_description, action, critical_flag, score, grade) %>% 
+  filter(!is.na(critical_flag),
+        !is.na(grade),
+        !is.na(score),
+        action == "Violations were cited in the following area(s).") %>% 
+  select(-action) 
+```
+
+```{r}
+NYC_rest %>% 
+  filter (grade %in% c("A","B","C")) %>% 
+  plot_ly(y=~ score, x = ~ grade, type = "box")
+```
+
+
+
