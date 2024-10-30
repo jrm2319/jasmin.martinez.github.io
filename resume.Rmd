@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-## EDUCATION 
+## Education 
 ### Columbia University Mailman School of Public Health
 
 New York, NY | Expected graduation May 2025
@@ -26,19 +26,19 @@ Concentration: Public Health
 **Relevant Coursework**: Programming for Data Science (Python), Human Development and Data Science (GitHub),  
 **Leadership**: The Latin American Student Union (President, 2022-2023 & Marketing Chair, 2020-2022), Student Assembly (Student Body Vice President, 2022-2023) 
 
-## SKILLS & CERTIFICATIONS
+## Skills & Certifications
 **Language Skills**: Spanish (fluent)  
 **Programming Skills**: R (Intermediate), SAS (Intermediate), Stata (Intermediate), SPSS (Intermediate), GitHub (Intermediate), Tableau (Novice), Python (Novice), SQL (Novice)  
 **Research Skills**: NVivo (Intermediate), Sonix (Intermediate), MAXQDA (Novice)  
 **Certifications**: HIPPA, CITI: Human Subjects Protection SBR, CITI: Responsible Conduct of Research
 
-## PUBLICATIONS
+## Publications
 **Unusual Upper Gastrointestinal Bleeding Due to a Neuroendocrine Tumor Arising in Meckel Diverticulum** | ACG Case Reports Journal  
 
 * Published Date: April 18, 2024    
 * [Read here](https://journals.lww.com/acgcr/fulltext/2024/04000/unusual_upper_gastrointestinal_bleeding_due_to_a.23.aspx) 
 
-## EXPERIENCE 
+## Research Experience 
 ### Data Research Assistant  
 **Center for Health Policy, Columbia University, New York, NY**  
 **May 2024-Present**
@@ -55,13 +55,6 @@ Concentration: Public Health
 * Facilitated 12 interviews with Administrators and Directors of Nursing from various agencies in Puerto Rico as part of the nationwide research studies, focusing on infection prevention, emergency preparedness, and COVID-19 experiences in home health agencies and nursing homes across the United States
 * Conducted 10 hours of recruitment activities per week by preparing mailings, making 60 phone calls, and sending 65-70 emails per week to potential study participants to ensure randomization of study participants
 
-### Spanish Interpreter
-**Olde Town Medical Center, Williamsburg, VA**  
-**February 2021-May 2023**
-
-* Dedicated 240 hours to providing interpreting services for Spanish-speaking patients during OBGYN and Pediatric appointments, seeing an average of 10-15 patients per week
-* Explored the impact of language barriers on medication adherence and reported findings in a comprehensive 15-page capstone titled "The Vital Role of Spanish Interpreters in Clinical Settings"
-
 ### Student Researcher
 **SOMOS Research Lab, William & Mary, Williamsburg, VA**   
 **March 2021-April 2022**
@@ -69,4 +62,54 @@ Concentration: Public Health
 * Conducted two interviews per week with community members of Esfuerzo del Paraiso, Santo Domingo, Dominican Republic to understand the impacts of inadequate waste disposal systems on health outcomes
 * Assisted in the transcription and translation of 60 recorded interviews using NVivo and Sonix for qualitative analysis  
 
+### Student Researcher
+**HHMI Phage Lab, William & Mary, Williamsburg, VA**
+**August 2019-May 2020**
+
+* Successfully isolated a microbacteriophage from a diverse set of 15 soil samples by performing four serial dilutions per sample, a critical step in identifying and isolating bacterial colonies
+* Utilized genome annotation and exploration software, specifically DNA Master, to analyze extracted DNA from identified bacteriophage in the samples
+
+
+
+## Clinical Experience 
+### Spanish Interpreter
+**Olde Town Medical Center, Williamsburg, VA**  
+**February 2021-May 2023**
+
+* Dedicated 240 hours to providing interpreting services for Spanish-speaking patients during OBGYN and Pediatric appointments, seeing an average of 10-15 patients per week
+* Explored the impact of language barriers on medication adherence and reported findings in a comprehensive 15-page capstone titled "The Vital Role of Spanish Interpreters in Clinical Settings"
+
+### Applied Clinical Expirence (ACE) Student
+**Virginia Commonwealth University Health Clinic, Williamsburg, VA**  
+**September 2022-December 2022**
+
+* Shadowed 7 Nurse Practitioners and 4 Physicians to understand their roles in clinical settings over the course of 15 weeks 
+* Attended 10 academic lectures focused on current medical literature, research, and understanding the medical school application process 
+* Wrote a paper exploring the impact of health literacy and communication on patient experience 
+
+## Leadership Experience 
+### Vice President
+**Engage: Public Health and Clinical Medicine Student Collaborative, Columbia University Mailman School of Public Health, New York, NY**   
+**August 2024-Present**
+
+### Co-President
+**Black & Latinx Student Caucus, Columbia University Mailman School of Public Health, New York, NY**   
+**January 2024-Present**
+
+### Student Body Vice President 
+**Student Assembly, College of William & Mary, Williamsburg, VA**  
+**March 2022-May 2023**
+
+* Spearheaded the Student Assembly Senate, a 28-member governing body, overseeing its operations and conducting Senate meetings in collaboration with the Senate Chair to address campus issues and student concerns
+* Collaborated extensively with key stakeholders in the development of a comprehensive policy document aimed at improving support for Undocumented and First-Generation Low-Income student populations at William & Mary
+
+### President 
+**Latin American Student Union, College of William & Mary, Williamsburg, VA**  
+**April 2022-April 2023**
+
+* Spearheaded a dynamic executive board of nine members and skillfully managed a 140-strong multicultural organization, promoting cohesion and growth
+* Pioneered LASU's inaugural website, centralizing information and strengthening connections with alumni and prospective students
+* Initiated and led the Diversity, Equity, and Inclusion Committee, strategizing a comprehensive five-year plan and establishing DEI goals for successive presidents to focus on, effective from the 2023-2024 academic year
+* Instituted an internal misconduct process
+* Introduced and oversaw the new Sports Chair position on the executive board
 
